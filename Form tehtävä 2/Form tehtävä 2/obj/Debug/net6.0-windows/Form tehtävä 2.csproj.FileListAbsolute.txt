@@ -1,0 +1,17 @@
+C:\Users\arttu.makela\source\repos\Form tehtävä 2\Form tehtävä 2\obj\Debug\net6.0-windows\Form tehtävä 2.csproj.AssemblyReference.cache
+C:\Users\arttu.makela\source\repos\Form tehtävä 2\Form tehtävä 2\obj\Debug\net6.0-windows\Form_tehtävä_2.Form1.resources
+C:\Users\arttu.makela\source\repos\Form tehtävä 2\Form tehtävä 2\obj\Debug\net6.0-windows\Form tehtävä 2.csproj.GenerateResource.cache
+C:\Users\arttu.makela\source\repos\Form tehtävä 2\Form tehtävä 2\obj\Debug\net6.0-windows\Form tehtävä 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arttu.makela\source\repos\Form tehtävä 2\Form tehtävä 2\obj\Debug\net6.0-windows\Form tehtävä 2.AssemblyInfoInputs.cache
+C:\Users\arttu.makela\source\repos\Form tehtävä 2\Form tehtävä 2\obj\Debug\net6.0-windows\Form tehtävä 2.AssemblyInfo.cs
+C:\Users\arttu.makela\source\repos\Form tehtävä 2\Form tehtävä 2\obj\Debug\net6.0-windows\Form tehtävä 2.csproj.CoreCompileInputs.cache
+C:\Users\arttu.makela\source\repos\Form tehtävä 2\Form tehtävä 2\bin\Debug\net6.0-windows\Form tehtävä 2.exe
+C:\Users\arttu.makela\source\repos\Form tehtävä 2\Form tehtävä 2\bin\Debug\net6.0-windows\Form tehtävä 2.deps.json
+C:\Users\arttu.makela\source\repos\Form tehtävä 2\Form tehtävä 2\bin\Debug\net6.0-windows\Form tehtävä 2.runtimeconfig.json
+C:\Users\arttu.makela\source\repos\Form tehtävä 2\Form tehtävä 2\bin\Debug\net6.0-windows\Form tehtävä 2.dll
+C:\Users\arttu.makela\source\repos\Form tehtävä 2\Form tehtävä 2\bin\Debug\net6.0-windows\Form tehtävä 2.pdb
+C:\Users\arttu.makela\source\repos\Form tehtävä 2\Form tehtävä 2\obj\Debug\net6.0-windows\Form tehtävä 2.dll
+C:\Users\arttu.makela\source\repos\Form tehtävä 2\Form tehtävä 2\obj\Debug\net6.0-windows\refint\Form tehtävä 2.dll
+C:\Users\arttu.makela\source\repos\Form tehtävä 2\Form tehtävä 2\obj\Debug\net6.0-windows\Form tehtävä 2.pdb
+C:\Users\arttu.makela\source\repos\Form tehtävä 2\Form tehtävä 2\obj\Debug\net6.0-windows\Form tehtävä 2.genruntimeconfig.cache
+C:\Users\arttu.makela\source\repos\Form tehtävä 2\Form tehtävä 2\obj\Debug\net6.0-windows\ref\Form tehtävä 2.dll
