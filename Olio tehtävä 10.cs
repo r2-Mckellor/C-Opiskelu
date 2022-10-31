@@ -6,89 +6,105 @@ namespace Olio_tehtävä_10
     {
         private string nimi;
         private int oppilasnro;
-        private int osoite;
+        private string osoite;
         private int kurssit;
 
+
+        //Oletuskonstruktori
         public Opiskelija()
         {
             nimi = "";
             oppilasnro = 0;
-            osoite = 0;
+            osoite = "";
             kurssit = 0;
             Console.WriteLine("Käytit oletuskonstruktoria");
         }
 
-        public Opiskelija(string u_nimi, int u_oppilasnro, int u_osoite, int u_kurssit)
+
+        //Ylikuormitettukonstruktori
+        public Opiskelija(string u_nimi, int u_oppilasnro, string u_osoite, int u_kurssit)
         {
             nimi = u_nimi;
             oppilasnro = u_oppilasnro;
             osoite = u_osoite;
             kurssit = u_kurssit;
-            Console.WriteLine("Käytit ylikuormitettua konstruktoria.");
+            Console.WriteLine("Käytit ylikuormitettuakonstruktoria.");
         }
 
         public string Nimi
         {
-            set { Console.WriteLine("Käytit setteriä."); nimi = value; }
-            get { Console.WriteLine("Käytit getteriä."); return nimi; }
+            set { nimi = value; }
+            get { return nimi; }
         }
 
 
         public int Oppilasnro
         {
-            set { Console.WriteLine("Käytit setteriä."); oppilasnro = value; }
-            get { Console.WriteLine("Käytit getteriä."); return oppilasnro; }
+            set { oppilasnro = value; }
+            get { return oppilasnro; }
         }
 
-        public int Osoite
+        public string Osoite
         {
-            set { Console.WriteLine("Käytit setteriä."); osoite = value; }
-            get { Console.WriteLine("Käytit getteriä."); return osoite; }
+            set { osoite = value; }
+            get { return osoite; }
         }
 
         public int Kurssit
         {
-            set { Console.WriteLine("Käytit setteriä."); kurssit = value; }
-            get { Console.WriteLine("Käytit getteriä."); return kurssit; }
+            set { kurssit = value; }
+            get { return kurssit; }
         }
 
+
+        //Metodeja
         public string OpiskelijaTiedot()
         {
+            Console.WriteLine("OpiskelijaTiedot metodia käytetty");
             nimi = OpiskelijaNimi();
             oppilasnro = OpiskelijaNumero();
+            osoite = OpiskelijaOsoite();
             kurssit = OpiskelijaKurssit();
             return null;
         }
 
         public string OpiskelijaNimi()
         {
-            
+            Console.WriteLine("OpiskelijaNimi metodia käytetty");
             string[] etuNimia = new string[] { "Teppo", "Seppo", "Alina", "Jeppe", "Joakim", "Taru", "Jan", "Eevertti" };
             string[] sukuNimia = new string[] { "Mäkinen", "Jokinen", "Mäkelä", "Kiviranta", "Virtanen" };
-            loop:
-            Random rnd1 = new Random(DateTime.Now.Second);
-            string u_nimi = etuNimia[rnd1.Next(0, etuNimia.Length - 1)];
+            Random rnd1 = new Random();
+            string u_nimi = etuNimia[rnd1.Next(0, etuNimia.Length - 1)] + " " + sukuNimia[rnd1.Next(0, sukuNimia.Length - 1)]; ;
             return u_nimi;
-            goto loop;
         }
 
         public int OpiskelijaNumero()
         {
-            Random rnd2 = new Random();
-            int u_oppilasnro = rnd2.Next(1000, 9999);
+            Console.WriteLine("OpiskelijaNumero metodia käytetty");
+            Random rnd = new Random();
+            int u_oppilasnro = rnd.Next(1000, 9999);
             return u_oppilasnro;
+        }
+
+        public string OpiskelijaOsoite()
+        {
+            Console.WriteLine("OpiskelijaOsoite metodia käytetty");
+            string[] opiskelijaOsoite = new string[] { "Elontie", "Lepolantie", "Hämeentie", "Kalevalantie", "Osuuskunnantie", "Renkovahantie" };
+            Random rnd = new Random();
+            string u_osoite = opiskelijaOsoite[rnd.Next(0, opiskelijaOsoite.Length - 1)] + " " + rnd.Next(1, 50);
+            return u_osoite;
         }
 
         public int OpiskelijaKurssit()
         {
-            Random rnd3 = new Random();
-            int u_kurssit = rnd3.Next(20);
+            Random rnd = new Random();
+            int u_kurssit = rnd.Next(20);
             return u_kurssit;
         }
 
         public void OpiskelijaLista()
         {
-            Console.WriteLine("-------------------\n" + "Opiskelijan nimi: " + Nimi + "\nOpiskelija numero: " + Oppilasnro + "#" + "\nOpiskelijan osoite: " + Osoite + "\nKursseja suoritettu: " + Kurssit + "\n-------------------");
+            Console.WriteLine("-------------------\n" + "Opiskelijan nimi: " + Nimi + "\nOpiskelijan osoite: " + Osoite +  "\nOpiskelija numero: " + Oppilasnro + "#" + "\nKursseja suoritettu: " + Kurssit + "\n-------------------");
         }
 
     }
@@ -103,7 +119,7 @@ namespace Olio_tehtävä_10
 
             string u_nimi = "";
             int u_oppilasnro = 0;
-            int u_osoite = 0;
+            string u_osoite = "";
             int u_kurssit = 0;
 
             for (int i = 0; i < 5; i++)
