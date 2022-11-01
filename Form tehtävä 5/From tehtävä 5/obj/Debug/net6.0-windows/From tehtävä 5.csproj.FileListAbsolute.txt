@@ -1,0 +1,17 @@
+C:\Users\arttu.makela\source\repos\From tehtävä 5\From tehtävä 5\bin\Debug\net6.0-windows\From tehtävä 5.exe
+C:\Users\arttu.makela\source\repos\From tehtävä 5\From tehtävä 5\bin\Debug\net6.0-windows\From tehtävä 5.deps.json
+C:\Users\arttu.makela\source\repos\From tehtävä 5\From tehtävä 5\bin\Debug\net6.0-windows\From tehtävä 5.runtimeconfig.json
+C:\Users\arttu.makela\source\repos\From tehtävä 5\From tehtävä 5\bin\Debug\net6.0-windows\From tehtävä 5.dll
+C:\Users\arttu.makela\source\repos\From tehtävä 5\From tehtävä 5\bin\Debug\net6.0-windows\From tehtävä 5.pdb
+C:\Users\arttu.makela\source\repos\From tehtävä 5\From tehtävä 5\obj\Debug\net6.0-windows\From tehtävä 5.csproj.AssemblyReference.cache
+C:\Users\arttu.makela\source\repos\From tehtävä 5\From tehtävä 5\obj\Debug\net6.0-windows\From_tehtävä_5.LukuJarjestys.resources
+C:\Users\arttu.makela\source\repos\From tehtävä 5\From tehtävä 5\obj\Debug\net6.0-windows\From tehtävä 5.csproj.GenerateResource.cache
+C:\Users\arttu.makela\source\repos\From tehtävä 5\From tehtävä 5\obj\Debug\net6.0-windows\From tehtävä 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arttu.makela\source\repos\From tehtävä 5\From tehtävä 5\obj\Debug\net6.0-windows\From tehtävä 5.AssemblyInfoInputs.cache
+C:\Users\arttu.makela\source\repos\From tehtävä 5\From tehtävä 5\obj\Debug\net6.0-windows\From tehtävä 5.AssemblyInfo.cs
+C:\Users\arttu.makela\source\repos\From tehtävä 5\From tehtävä 5\obj\Debug\net6.0-windows\From tehtävä 5.csproj.CoreCompileInputs.cache
+C:\Users\arttu.makela\source\repos\From tehtävä 5\From tehtävä 5\obj\Debug\net6.0-windows\From tehtävä 5.dll
+C:\Users\arttu.makela\source\repos\From tehtävä 5\From tehtävä 5\obj\Debug\net6.0-windows\refint\From tehtävä 5.dll
+C:\Users\arttu.makela\source\repos\From tehtävä 5\From tehtävä 5\obj\Debug\net6.0-windows\From tehtävä 5.pdb
+C:\Users\arttu.makela\source\repos\From tehtävä 5\From tehtävä 5\obj\Debug\net6.0-windows\From tehtävä 5.genruntimeconfig.cache
+C:\Users\arttu.makela\source\repos\From tehtävä 5\From tehtävä 5\obj\Debug\net6.0-windows\ref\From tehtävä 5.dll

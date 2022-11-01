@@ -1,0 +1,18 @@
+C:\Users\arttu.makela\source\repos\Form tehtävä 6\Form tehtävä 6\bin\Debug\net6.0-windows\Form tehtävä 6.exe
+C:\Users\arttu.makela\source\repos\Form tehtävä 6\Form tehtävä 6\bin\Debug\net6.0-windows\Form tehtävä 6.deps.json
+C:\Users\arttu.makela\source\repos\Form tehtävä 6\Form tehtävä 6\bin\Debug\net6.0-windows\Form tehtävä 6.runtimeconfig.json
+C:\Users\arttu.makela\source\repos\Form tehtävä 6\Form tehtävä 6\bin\Debug\net6.0-windows\Form tehtävä 6.dll
+C:\Users\arttu.makela\source\repos\Form tehtävä 6\Form tehtävä 6\bin\Debug\net6.0-windows\Form tehtävä 6.pdb
+C:\Users\arttu.makela\source\repos\Form tehtävä 6\Form tehtävä 6\obj\Debug\net6.0-windows\Form tehtävä 6.csproj.AssemblyReference.cache
+C:\Users\arttu.makela\source\repos\Form tehtävä 6\Form tehtävä 6\obj\Debug\net6.0-windows\Form_tehtävä_6.SalasanaForm.resources
+C:\Users\arttu.makela\source\repos\Form tehtävä 6\Form tehtävä 6\obj\Debug\net6.0-windows\Form_tehtävä_6.Properties.Resources.resources
+C:\Users\arttu.makela\source\repos\Form tehtävä 6\Form tehtävä 6\obj\Debug\net6.0-windows\Form tehtävä 6.csproj.GenerateResource.cache
+C:\Users\arttu.makela\source\repos\Form tehtävä 6\Form tehtävä 6\obj\Debug\net6.0-windows\Form tehtävä 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arttu.makela\source\repos\Form tehtävä 6\Form tehtävä 6\obj\Debug\net6.0-windows\Form tehtävä 6.AssemblyInfoInputs.cache
+C:\Users\arttu.makela\source\repos\Form tehtävä 6\Form tehtävä 6\obj\Debug\net6.0-windows\Form tehtävä 6.AssemblyInfo.cs
+C:\Users\arttu.makela\source\repos\Form tehtävä 6\Form tehtävä 6\obj\Debug\net6.0-windows\Form tehtävä 6.csproj.CoreCompileInputs.cache
+C:\Users\arttu.makela\source\repos\Form tehtävä 6\Form tehtävä 6\obj\Debug\net6.0-windows\Form tehtävä 6.dll
+C:\Users\arttu.makela\source\repos\Form tehtävä 6\Form tehtävä 6\obj\Debug\net6.0-windows\refint\Form tehtävä 6.dll
+C:\Users\arttu.makela\source\repos\Form tehtävä 6\Form tehtävä 6\obj\Debug\net6.0-windows\Form tehtävä 6.pdb
+C:\Users\arttu.makela\source\repos\Form tehtävä 6\Form tehtävä 6\obj\Debug\net6.0-windows\Form tehtävä 6.genruntimeconfig.cache
+C:\Users\arttu.makela\source\repos\Form tehtävä 6\Form tehtävä 6\obj\Debug\net6.0-windows\ref\Form tehtävä 6.dll
