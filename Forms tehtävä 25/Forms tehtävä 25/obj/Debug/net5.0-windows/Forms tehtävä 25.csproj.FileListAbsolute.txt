@@ -1,0 +1,18 @@
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 25\Forms tehtävä 25\bin\Debug\net5.0-windows\Forms tehtävä 25.exe
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 25\Forms tehtävä 25\bin\Debug\net5.0-windows\Forms tehtävä 25.deps.json
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 25\Forms tehtävä 25\bin\Debug\net5.0-windows\Forms tehtävä 25.runtimeconfig.json
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 25\Forms tehtävä 25\bin\Debug\net5.0-windows\Forms tehtävä 25.runtimeconfig.dev.json
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 25\Forms tehtävä 25\bin\Debug\net5.0-windows\Forms tehtävä 25.dll
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 25\Forms tehtävä 25\bin\Debug\net5.0-windows\ref\Forms tehtävä 25.dll
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 25\Forms tehtävä 25\bin\Debug\net5.0-windows\Forms tehtävä 25.pdb
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 25\Forms tehtävä 25\obj\Debug\net5.0-windows\Forms tehtävä 25.csproj.AssemblyReference.cache
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 25\Forms tehtävä 25\obj\Debug\net5.0-windows\Forms_tehtävä_25.Form1.resources
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 25\Forms tehtävä 25\obj\Debug\net5.0-windows\Forms tehtävä 25.csproj.GenerateResource.cache
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 25\Forms tehtävä 25\obj\Debug\net5.0-windows\Forms tehtävä 25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 25\Forms tehtävä 25\obj\Debug\net5.0-windows\Forms tehtävä 25.AssemblyInfoInputs.cache
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 25\Forms tehtävä 25\obj\Debug\net5.0-windows\Forms tehtävä 25.AssemblyInfo.cs
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 25\Forms tehtävä 25\obj\Debug\net5.0-windows\Forms tehtävä 25.csproj.CoreCompileInputs.cache
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 25\Forms tehtävä 25\obj\Debug\net5.0-windows\Forms tehtävä 25.dll
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 25\Forms tehtävä 25\obj\Debug\net5.0-windows\ref\Forms tehtävä 25.dll
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 25\Forms tehtävä 25\obj\Debug\net5.0-windows\Forms tehtävä 25.pdb
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 25\Forms tehtävä 25\obj\Debug\net5.0-windows\Forms tehtävä 25.genruntimeconfig.cache
