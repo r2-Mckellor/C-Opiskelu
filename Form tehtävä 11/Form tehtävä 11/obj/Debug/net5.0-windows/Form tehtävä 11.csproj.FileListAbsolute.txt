@@ -1,0 +1,19 @@
+C:\Users\r2Mkeler\source\repos\Form tehtävä 11\Form tehtävä 11\bin\Debug\net5.0-windows\Form tehtävä 11.exe
+C:\Users\r2Mkeler\source\repos\Form tehtävä 11\Form tehtävä 11\bin\Debug\net5.0-windows\Form tehtävä 11.deps.json
+C:\Users\r2Mkeler\source\repos\Form tehtävä 11\Form tehtävä 11\bin\Debug\net5.0-windows\Form tehtävä 11.runtimeconfig.json
+C:\Users\r2Mkeler\source\repos\Form tehtävä 11\Form tehtävä 11\bin\Debug\net5.0-windows\Form tehtävä 11.runtimeconfig.dev.json
+C:\Users\r2Mkeler\source\repos\Form tehtävä 11\Form tehtävä 11\bin\Debug\net5.0-windows\Form tehtävä 11.dll
+C:\Users\r2Mkeler\source\repos\Form tehtävä 11\Form tehtävä 11\bin\Debug\net5.0-windows\ref\Form tehtävä 11.dll
+C:\Users\r2Mkeler\source\repos\Form tehtävä 11\Form tehtävä 11\bin\Debug\net5.0-windows\Form tehtävä 11.pdb
+C:\Users\r2Mkeler\source\repos\Form tehtävä 11\Form tehtävä 11\obj\Debug\net5.0-windows\Form tehtävä 11.csproj.AssemblyReference.cache
+C:\Users\r2Mkeler\source\repos\Form tehtävä 11\Form tehtävä 11\obj\Debug\net5.0-windows\Form_tehtävä_11.Form1.resources
+C:\Users\r2Mkeler\source\repos\Form tehtävä 11\Form tehtävä 11\obj\Debug\net5.0-windows\Form_tehtävä_11.Properties.Resources.resources
+C:\Users\r2Mkeler\source\repos\Form tehtävä 11\Form tehtävä 11\obj\Debug\net5.0-windows\Form tehtävä 11.csproj.GenerateResource.cache
+C:\Users\r2Mkeler\source\repos\Form tehtävä 11\Form tehtävä 11\obj\Debug\net5.0-windows\Form tehtävä 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r2Mkeler\source\repos\Form tehtävä 11\Form tehtävä 11\obj\Debug\net5.0-windows\Form tehtävä 11.AssemblyInfoInputs.cache
+C:\Users\r2Mkeler\source\repos\Form tehtävä 11\Form tehtävä 11\obj\Debug\net5.0-windows\Form tehtävä 11.AssemblyInfo.cs
+C:\Users\r2Mkeler\source\repos\Form tehtävä 11\Form tehtävä 11\obj\Debug\net5.0-windows\Form tehtävä 11.csproj.CoreCompileInputs.cache
+C:\Users\r2Mkeler\source\repos\Form tehtävä 11\Form tehtävä 11\obj\Debug\net5.0-windows\Form tehtävä 11.dll
+C:\Users\r2Mkeler\source\repos\Form tehtävä 11\Form tehtävä 11\obj\Debug\net5.0-windows\ref\Form tehtävä 11.dll
+C:\Users\r2Mkeler\source\repos\Form tehtävä 11\Form tehtävä 11\obj\Debug\net5.0-windows\Form tehtävä 11.pdb
+C:\Users\r2Mkeler\source\repos\Form tehtävä 11\Form tehtävä 11\obj\Debug\net5.0-windows\Form tehtävä 11.genruntimeconfig.cache

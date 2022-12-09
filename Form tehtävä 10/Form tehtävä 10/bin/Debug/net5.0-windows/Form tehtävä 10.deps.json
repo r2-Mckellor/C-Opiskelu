@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Form tehtävä 10/1.0.0": {
+        "runtime": {
+          "Form tehtävä 10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Form tehtävä 10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
