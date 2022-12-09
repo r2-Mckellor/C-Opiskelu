@@ -1,0 +1,19 @@
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 19\Forms tehtävä 19\bin\Debug\net5.0-windows\Forms tehtävä 19.exe
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 19\Forms tehtävä 19\bin\Debug\net5.0-windows\Forms tehtävä 19.deps.json
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 19\Forms tehtävä 19\bin\Debug\net5.0-windows\Forms tehtävä 19.runtimeconfig.json
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 19\Forms tehtävä 19\bin\Debug\net5.0-windows\Forms tehtävä 19.runtimeconfig.dev.json
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 19\Forms tehtävä 19\bin\Debug\net5.0-windows\Forms tehtävä 19.dll
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 19\Forms tehtävä 19\bin\Debug\net5.0-windows\ref\Forms tehtävä 19.dll
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 19\Forms tehtävä 19\bin\Debug\net5.0-windows\Forms tehtävä 19.pdb
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 19\Forms tehtävä 19\obj\Debug\net5.0-windows\Forms tehtävä 19.csproj.AssemblyReference.cache
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 19\Forms tehtävä 19\obj\Debug\net5.0-windows\Forms_tehtävä_19.RuoklistaForm.resources
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 19\Forms tehtävä 19\obj\Debug\net5.0-windows\Forms_tehtävä_19.Properties.Resources.resources
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 19\Forms tehtävä 19\obj\Debug\net5.0-windows\Forms tehtävä 19.csproj.GenerateResource.cache
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 19\Forms tehtävä 19\obj\Debug\net5.0-windows\Forms tehtävä 19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 19\Forms tehtävä 19\obj\Debug\net5.0-windows\Forms tehtävä 19.AssemblyInfoInputs.cache
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 19\Forms tehtävä 19\obj\Debug\net5.0-windows\Forms tehtävä 19.AssemblyInfo.cs
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 19\Forms tehtävä 19\obj\Debug\net5.0-windows\Forms tehtävä 19.csproj.CoreCompileInputs.cache
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 19\Forms tehtävä 19\obj\Debug\net5.0-windows\Forms tehtävä 19.dll
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 19\Forms tehtävä 19\obj\Debug\net5.0-windows\ref\Forms tehtävä 19.dll
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 19\Forms tehtävä 19\obj\Debug\net5.0-windows\Forms tehtävä 19.pdb
+C:\Users\r2Mkeler\source\repos\Forms tehtävä 19\Forms tehtävä 19\obj\Debug\net5.0-windows\Forms tehtävä 19.genruntimeconfig.cache
